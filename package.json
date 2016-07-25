@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogara/mongoose-getting-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cogara/mongoose-getting-started/issues"
+  },
+  "homepage": "https://github.com/cogara/mongoose-getting-started#readme"
+}
